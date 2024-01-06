@@ -9,7 +9,7 @@ const Contacts =()=>{
         Email: <a href="mailto:contactroseofjericho@gmail.com">contactroseofjericho@gmail.com</a>
       </p>
       <p>
-        Instagram: <a href="https://www.instagram.com/the_roseofjericho">yourprofile</a>
+        Instagram: <a href="https://www.instagram.com/the_roseofjericho">The Rose of Jericho Store</a>
       </p>
     </div>
     )
